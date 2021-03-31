@@ -5,7 +5,7 @@ import org.junit.Test;
 
 
 
-public class SummarizeServiceTest {
+public class SummarizeTest {
 
 	@Test
 	public void testSummerizedNumbers() {
